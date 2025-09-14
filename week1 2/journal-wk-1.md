@@ -1,4 +1,4 @@
-# journal-weekk-1 (Reflection)
+# journal-week-1 (Reflection)
 
 **Week:** 1 (Sep 8–12, 2025)  
 **Focus:** Getting my digital workspace set up
