@@ -12,6 +12,6 @@ Repo created Sep 8, 2025.
 - report-back-email.md
 
 ## Quick Links
-- **GitHub repo:** https://github.com/myusername/week1  
-- **Hypothes.is profile:** https://hypothes.is/users/myusername  
-- **Notebook (web):** https://myusername.github.io/notebook
+- **GitHub repo:** https://github.com/MookaSaleh/week1  
+- **Hypothes.is profile:** [https://hypothes.is/users/myusername](https://hypothes.is/users/MookaSaleh)  
+- **Notebook (web):** https://MookaSaleh.github.io/notebook
