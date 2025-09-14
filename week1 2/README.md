@@ -14,4 +14,3 @@ Repo created Sep 8, 2025.
 ## Quick Links
 - **GitHub repo:** https://github.com/MookaSaleh/week1  
 - **Hypothes.is profile:** [https://hypothes.is/users/myusername](https://hypothes.is/users/MookaSaleh)  
-- **Notebook (web):** https://MookaSaleh.github.io/notebook
