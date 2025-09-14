@@ -6,9 +6,8 @@ Hello Dr. Graham,
 
 Here are my Week 1 materials:
 
-- GitHub repo: https://github.com/myusername/week1 (shawngraham invited)
-- Notebook: https://myusername.github.io/notebook
-- Hypothes.is profile: https://hypothes.is/users/myusername
+- GitHub repo: https://github.com/MookaSaleh/week1 (shawngraham invited)
+- Hypothes.is profile: [https://hypothes.is/users/myusername](https://hypothes.is/users/MookaSaleh)
 - Annotation permalinks: see `annotations-links.md` in repo
 
 Notes:
